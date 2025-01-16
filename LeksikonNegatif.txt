@@ -1,6 +1,3 @@
-Tentu! Berikut adalah **Leksikon Negatif PLN Mobile** dengan tanda minus ("-") sebelum angka, sesuai permintaan Anda:
-
-```plaintext
 lambat,-2
 tidak responsif,-3
 terlambat,-2
@@ -266,4 +263,40 @@ tidak ada fitur tracking tiket,-3
 tidak mempermudah pemesanan tiket untuk keluarga,-3
 tidak memberi notifikasi otomatis jika jadwal berubah,-3
 tidak mendukung banyak metode pembayaran,-3
-tidak memberi opsi pemes
+anan tiket lebih dari satu,-3
+tidak bisa mengakses informasi tiket setelah pemesanan,-3
+tidak bisa melihat stasiun tujuan secara real-time,-3
+tidak memberikan hasil pencarian yang lengkap,-3
+tidak memberi info tentang kapasitas kereta,-3
+tidak mendukung pembayaran menggunakan aplikasi lain,-3
+tidak memberi notifikasi pengingat keberangkatan,-3
+tidak ada pilihan untuk memilih tiket berdasar rute,-3
+tidak ada informasi perubahan tiket secara langsung,-3
+aplikasi terlalu berat,-3
+tidak ada opsi membeli tiket langsung dari aplikasi,-3
+tidak bisa menampilkan pilihan tiket yang sesuai,-3
+tidak memberi data yang lengkap terkait kereta,-3
+tidak ada fitur pengingat tiket,-3
+tidak bisa membatalkan tiket dalam waktu cepat,-3
+tidak memberikan fitur untuk membandingkan harga,-3
+tidak memberikan opsi ganti kursi,-3
+tidak memberi update otomatis,-3
+tidak dapat mengakses tiket melalui aplikasi,-3
+tidak tersedia pilihan kereta cepat,-3
+tidak menyediakan info waktu perjalanan yang akurat,-3
+tidak ada layanan pelanggan langsung,-3
+tidak ada opsi pembayaran alternatif,-3
+tidak memberi informasi real-time jadwal keberangkatan,-3
+tidak memberi hasil pemesanan yang sesuai,-3
+tidak menawarkan sistem refund yang cepat,-3
+tidak bisa memilih jadwal sesuai keinginan,-3
+tidak memberi informasi fasilitas kereta,-3
+tidak memberi informasi lengkap tentang tiket,-3
+tidak ada pilihan untuk memilih tempat duduk,-3
+tidak memberi opsi penggantian tiket,-3
+tidak memberikan layanan konsumen yang memadai,-3
+tidak menyarankan tiket terbaik,-3
+tidak dapat diakses di berbagai perangkat,-3
+tidak memperbarui jadwal secara otomatis,-3
+tidak memberi opsi pembayaran yang nyaman,-3
+tidak ada panduan penggunaan aplikasi,-3
