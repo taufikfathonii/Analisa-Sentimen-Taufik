@@ -1,85 +1,302 @@
-aplikasi sangat lambat,2
-keluar sendiri,1
-sistem ada gangguan,3
-error,2
-tidak ada opsi pembayaran,2
-kecewa,3
-server error terus,1
-kesulitan,2
-aplikasi ini tidak lengkap,2
-terlambat,1
-terganggu,1
-gangguan,2
-kerusakan,3
+lambat,2
 tidak responsif,3
-tidak berguna,3
-membingungkan,2
-komplain,1
-keluhan,2
-terblokir,2
-bug,2
-terluka,2
-hancur,3
-susah,1
-tidak stabil,2
-kacau,2
-buntu,2
-tidak aman,3
-mengganggu,2
-salah,1
-terputus,2
-kekurangan,2
-terbengkalai,3
-hang,2
-terhenti,2
-tidak bisa diakses,3
-terhalang,2
+terlambat,2
+tidak terjangkau,3
 tidak efisien,2
-tunggu lama,1
-kesalahan,2
+sulit digunakan,2
+buruk,3
+tidak stabil,2
+eror,3
+tidak bisa diakses,3
+membingungkan,2
+tidak ada update,2
+tidak ada notifikasi,2
+koneksi terputus,3
+tidak praktis,2
+tidak intuitif,2
+aplikasi crash,3
+tidak dapat dipercaya,3
+fitur tidak berfungsi,3
+tidak terintegrasi,2
+tidak fleksibel,2
+tidak jelas,2
 terlalu rumit,2
-tidak memadai,2
-sumber daya terbatas,2
-terlupakan,1
-rugi,3
-gagal total,3
-harapan hancur,3
-tidak ada solusi,3
-kurang lengkap,2
-bermasalah,2
-kehilangan,2
-lambat respon,1
-keterlambatan,1
-susah login,1
-tidak tepat waktu,1
-berantakan,2
-sulit diakses,2
-tidak cocok,2
-terhambat,1
-kurang cepat,1
-susah dioperasikan,2
-membosankan,1
-berulang,1
-terhambat,1
-tidak tepat sasaran,2
-frustrasi,3
-penurunan kualitas,2
-bermasalah teknis,2
-komplikasi,2
-rumit,1
-kehilangan data,3
-terpotong,2
-kerugian,3
-tidak efektif,2
-tidak bisa diperbaiki,3
-kesalahan besar,3
-terganggu,2
-terlambat respon,1
-keterbatasan,2
-terhenti mendadak,2
-tidak memadai,2
-tidak konsisten,2
-keterbatasan fitur,2
-tidak diinginkan,2
-tidak berguna,3
-menyusahkan,3
+tidak ramah pengguna,3
+tidak aman,3
+tidak dapat diakses,3
+tidak responsif,3
+tidak ada pilihan,2
+sering error,3
+proses lambat,2
+tidak terkoordinasi,2
+tidak konsisten,3
+tidak kompatibel,3
+tidak sesuai harapan,3
+tidak akurat,3
+bug,3
+terlalu banyak iklan,2
+pembayaran gagal,3
+tidak update data,3
+tidak bisa disesuaikan,2
+tidak informatif,2
+tidak memadai,3
+tidak jelas instruksinya,2
+tidak lengkap,3
+tidak memadai,3
+tidak memberikan konfirmasi,3
+tampilan membingungkan,3
+tidak mudah digunakan,2
+aplikasi sulit dibuka,3
+tidak memiliki fitur lengkap,3
+tidak bisa memilih kursi,3
+tidak ada fitur pencarian,3
+tidak ada update jadwal,3
+error saat booking,3
+proses pemesanan lama,3
+aplikasi freeze,3
+tidak dapat disinkronkan,3
+terlalu banyak langkah,2
+fitur terbatas,2
+tidak efisien,2
+tidak ada notifikasi perubahan,2
+tidak memberi pilihan pembayaran,3
+fitur tidak lengkap,3
+tidak memperbarui jadwal otomatis,2
+tampilan tidak menarik,2
+aplikasi sering hang,3
+tidak memberikan pilihan jenis kereta,3
+terlalu banyak bug,3
+gagal memuat data,3
+tidak bisa diunduh,3
+tidak mendukung semua perangkat,3
+pembayaran tidak terverifikasi,3
+tidak bisa cancel booking,3
+tidak ada customer support,3
+tidak memudahkan pencarian tiket,3
+tidak update harga,3
+tidak menyediakan fitur refund,3
+sering logout sendiri,3
+tidak dapat mengakses riwayat pemesanan,3
+tidak memberikan informasi detail,3
+tidak ada promo,3
+tidak ada diskon,3
+sistem pembayaran error,3
+tidak dapat login,3
+tampilan tidak ramah,3
+tidak dapat memilih stasiun keberangkatan,3
+tidak bisa ganti jadwal,3
+aplikasi tidak berjalan lancar,3
+tidak ada pilihan kereta cepat,3
+tidak ada opsi ganti kursi,3
+tidak dapat mengubah data pemesanan,3
+harga tidak sesuai,3
+tidak ada notifikasi keberangkatan,3
+tidak ada peta rute kereta,3
+tidak ada riwayat transaksi,3
+tidak responsif saat load,3
+tampilan tidak user-friendly,3
+tidak ada fitur reminder,3
+gagal bayar,3
+tidak bisa memilih jadwal tertentu,3
+proses pengembalian dana lama,3
+tidak ada fitur ubah rute,3
+tidak memberi informasi kedatangan tepat waktu,3
+terlalu banyak update yang mengganggu,2
+tidak mendukung pembayaran lewat dompet digital,3
+tidak terhubung dengan sistem lain,3
+tidak ada riwayat tiket,3
+sering membutuhkan login ulang,3
+tidak sesuai dengan preferensi pengguna,2
+tidak dapat memilih gerbong,3
+tidak ada fitur pembatalan mudah,3
+proses login terlalu rumit,3
+tidak bisa mendapatkan tiket dalam waktu singkat,3
+tidak mendukung fitur pembayaran cicilan,3
+pembatalan tiket sulit,3
+tidak ada cara cepat untuk check-in,3
+tidak memberi feedback saat transaksi gagal,3
+proses pemesanan panjang,3
+tidak ada pilihan pembayaran lain,3
+tidak bisa mengakses layanan VIP,3
+tidak kompatibel dengan perangkat lain,3
+tidak menampilkan stasiun keberangkatan dengan benar,3
+tampilan membingungkan,3
+tidak dapat menampilkan kereta yang tersedia,3
+tidak ada panduan penggunaan,3
+gagal mengupdate data pemesanan,3
+pembayaran selalu gagal,3
+tidak bisa memuat jadwal kereta,3
+tidak bisa memesan tiket untuk grup,3
+fitur tidak berjalan dengan baik,3
+tidak memberi solusi saat masalah terjadi,3
+tidak memberikan pengingat tiket,3
+tidak mendukung multiple pembayaran,3
+tidak bisa memilih kursi sesuai keinginan,3
+tidak memberi alternatif pembayaran,3
+tidak bisa melihat detail kereta,3
+tidak ada opsi ganti tanggal,3
+tidak memberikan informasi akurat,3
+tidak dapat memverifikasi status tiket,3
+tidak memudahkan untuk ganti nama tiket,3
+tampilan tidak sesuai standar,3
+pembayaran tidak terproses dengan baik,3
+tidak memberikan notifikasi saat terjadi keterlambatan,3
+tidak bisa melihat jadwal kedatangan,3
+tidak bisa mengubah destinasi,3
+aplikasi sering log out,3
+tidak ada pilihan untuk memilih rute alternatif,3
+tidak mendukung semua jenis pembayaran,3
+tidak ada info tentang tempat duduk,3
+tidak bisa memilih gerbong khusus,3
+tidak bisa memesan tiket dari stasiun tertentu,3
+sistem notifikasi buruk,3
+tidak bisa membeli tiket lebih dari satu,3
+tidak ada informasi tentang fasilitas kereta,3
+tidak ada opsi refund otomatis,3
+pembatalan tidak cepat diproses,3
+tidak dapat mengakses tiket digital,3
+proses pemesanan terlalu lama,3
+tidak ada fitur tukar tiket,3
+tidak bisa mengubah pembayaran,3
+tidak bisa mengubah gerbong,3
+tidak menyediakan opsi pembayaran internasional,3
+tidak memberikan hasil pencarian yang akurat,3
+tidak bisa memilih tiket berdasar waktu,3
+tidak bisa melihat status tiket secara real-time,3
+tidak ada fitur untuk pembelian tiket untuk keluarga,3
+tidak ada informasi keberangkatan terperinci,3
+pembayaran terus gagal,3
+aplikasi sering mengalami crash,3
+tidak bisa menyimpan tiket di aplikasi,3
+tidak bisa memesan tiket untuk hari tertentu,3
+aplikasi terlalu lambat,3
+tidak ada pengingat tiket otomatis,3
+fitur tidak lengkap,3
+aplikasi tidak bisa digunakan secara maksimal,3
+tidak bisa mengubah jadwal keberangkatan,3
+tidak dapat mengganti tempat duduk,3
+tidak ada bantuan langsung dari customer service,3
+tidak ada opsi untuk ganti nama pemesan,3
+tidak dapat mengakses informasi lebih lanjut,3
+tampilan tidak responsif,3
+tidak ada filter pencarian yang memadai,3
+tidak ada panduan pembatalan,3
+tidak mempermudah proses checkout,3
+proses pemesanan tidak efisien,3
+tidak memudahkan pembelian tiket grup,3
+aplikasi tidak kompatibel dengan sistem lain,3
+tidak ada fitur pencarian tiket berdasarkan rute,3
+tidak bisa menyimpan tiket ke dalam galeri,3
+tampilan aplikasi terlalu kecil,3
+tidak bisa mengakses detail perjalanan,3
+tidak memberikan update real-time,3
+fitur pencarian buruk,3
+tidak memberikan pilihan rute lain,3
+proses checkout membingungkan,3
+tidak memberi instruksi pembelian tiket yang jelas,3
+tidak ada opsi untuk mengubah detail pemesanan,3
+tidak bisa memilih rute kereta yang sesuai,3
+tidak bisa memilih waktu keberangkatan tertentu,3
+tidak mendukung pembayaran luar negeri,3
+tidak dapat memesan tiket untuk beberapa orang,3
+pembayaran tidak tercatat,3
+tidak ada fitur chat dengan customer service,3
+tidak mendukung pembayaran dengan kartu kredit,3
+tidak memberikan konfirmasi pembayaran,3
+tidak ada opsi untuk melihat status pembayaran,3
+tidak dapat mengubah gerbong atau kursi,3
+aplikasi tidak memberikan notifikasi keterlambatan,3
+tidak memadai untuk pemesanan tiket jarak jauh,3
+tidak ada pemberitahuan perubahan jadwal,3
+tidak mendukung pembayaran menggunakan QR code,3
+tidak memberikan pengembalian dana otomatis,3
+proses pemesanan tiket tidak transparan,3
+tidak memberi hasil pencarian yang sesuai,3
+tidak ada pilihan untuk menukar tiket,3
+tidak menawarkan berbagai pilihan pembayaran,3
+tidak menawarkan layanan tiket VIP,3
+tidak memberikan opsi pengembalian dana cepat,3
+aplikasi tidak dapat diinstal,3
+tidak bisa mengakses tiket secara offline,3
+tidak menawarkan fasilitas tambahan kereta,3
+tidak ada panduan penggunaan aplikasi,3
+tidak ada pilihan pembayaran dengan transfer,3
+tidak ada customer service online,3
+tidak ada opsi mengedit nama tiket,3
+tidak memberikan data lengkap tentang kereta,3
+aplikasi lambat dalam memproses pembayaran,3
+tidak ada opsi pemesanan tiket untuk grup besar,3
+tidak ada pilihan untuk memilih kursi berdasar kelas,3
+tidak memberi opsi pemesanan otomatis,3
+tidak bisa membatalkan tiket dengan cepat,3
+tidak mendukung pembayaran dengan saldo digital,3
+tidak memberikan hasil pencarian dengan cepat,3
+tidak ada opsi untuk memilih tiket berdasar harga,3
+tidak memberikan informasi tentang kereta secara lengkap,3
+tidak ada pengingat otomatis keberangkatan,3
+tidak menyediakan berbagai metode pembayaran,3
+tidak ada opsi untuk memilih kereta cepat,3
+tidak memberikan tiket digital langsung,3
+proses pembayaran selalu gagal,3
+tidak ada pilihan untuk memilih stasiun keberangkatan,3
+tidak bisa mengakses tiket melalui email,3
+tidak mendukung berbagai bahasa,3
+tidak bisa digunakan pada perangkat lama,3
+tidak ada fitur untuk mengubah jadwal keberangkatan,3
+tidak mendukung pembayaran internasional,3
+tidak memberi alternatif pembayaran jika gagal,3
+tidak mudah untuk melihat jadwal kereta,3
+tidak memberi detail informasi perjalanan,3
+tidak ada panduan untuk pengguna baru,3
+tidak bisa memilih kursi berdasar preferensi,3
+tidak memberi pengalaman pengguna yang baik,3
+tidak ada dukungan untuk sistem pembayaran tertentu,3
+tidak ada alternatif pengembalian dana,3
+tidak ada opsi refund otomatis,3
+tidak ada fitur untuk menyimpan pembayaran,3
+aplikasi terlalu kompleks,3
+tidak memberi hasil pencarian tepat,3
+tidak memungkinkan pengguna untuk menambah kursi,3
+tidak memberi informasi terkait keterlambatan,3
+tidak memberikan info harga yang jelas,3
+tidak ada fitur tracking tiket,3
+tidak mempermudah pemesanan tiket untuk keluarga,3
+tidak memberi notifikasi otomatis jika jadwal berubah,3
+tidak mendukung banyak metode pembayaran,3
+tidak memberi opsi pemesanan tiket lebih dari satu,3
+tidak bisa mengakses informasi tiket setelah pemesanan,3
+tidak bisa melihat stasiun tujuan secara real-time,3
+tidak memberikan hasil pencarian yang lengkap,3
+tidak memberi info tentang kapasitas kereta,3
+tidak mendukung pembayaran menggunakan aplikasi lain,3
+tidak memberi notifikasi pengingat keberangkatan,3
+tidak ada pilihan untuk memilih tiket berdasar rute,3
+tidak ada informasi perubahan tiket secara langsung,3
+aplikasi terlalu berat,3
+tidak ada opsi membeli tiket langsung dari aplikasi,3
+tidak bisa menampilkan pilihan tiket yang sesuai,3
+tidak memberi data yang lengkap terkait kereta,3
+tidak ada fitur pengingat tiket,3
+tidak bisa membatalkan tiket dalam waktu cepat,3
+tidak memberikan fitur untuk membandingkan harga,3
+tidak memberikan opsi ganti kursi,3
+tidak memberi update otomatis,3
+tidak dapat mengakses tiket melalui aplikasi,3
+tidak tersedia pilihan kereta cepat,3
+tidak menyediakan info waktu perjalanan yang akurat,3
+tidak ada layanan pelanggan langsung,3
+tidak ada opsi pembayaran alternatif,3
+tidak memberi informasi real-time jadwal keberangkatan,3
+tidak memberi hasil pemesanan yang sesuai,3
+tidak menawarkan sistem refund yang cepat,3
+tidak bisa memilih jadwal sesuai keinginan,3
+tidak memberi informasi fasilitas kereta,3
+tidak memberi informasi lengkap tentang tiket,3
+tidak ada pilihan untuk memilih tempat duduk,3
+tidak memberi opsi penggantian tiket,3
+tidak memberikan layanan konsumen yang memadai,3
+tidak menyarankan tiket terbaik,3
+tidak dapat diakses di berbagai perangkat,3
+tidak memperbarui jadwal secara otomatis,3
+tidak memberi opsi pembayaran yang nyaman,3
+tidak ada panduan penggunaan aplikasi,3
