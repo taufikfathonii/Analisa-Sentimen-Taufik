@@ -1,96 +1,95 @@
-baik
-mudah
-cepat
-terpercaya
-memuaskan
-lancar
-efisien
-nyaman
-terbaik
-bagus
-sukses
-berhasil
-hebat
-positif
-user-friendly
-praktis
-bermanfaat
-solusi
-terorganisir
-tepat waktu
-ramah
-mudah diakses
-bantu
-fungsional
-terjangkau
-responsif
-sederhana
-teratur
-terpercaya
-aman
-canggih
-praktis
-bisa diandalkan
-tanpa masalah
-tanggapan cepat
-solusi cepat
-terpercaya
-efektif
-terbaik
-memenuhi kebutuhan
-puas
-menguntungkan
-ramah pengguna
-berkualitas
-tepat sasaran
-berhasil besar
-fitur lengkap
-segera
-mendukung
-terpercaya
-tepat guna
-kemudahan
-lanjutkan
-reliable
-terjamin
-dioptimalkan
-optimal
-tanggap
-mudah digunakan
-terhemat
-solutif
-inovatif
-mudah dipahami
-menguntungkan
-keren
-terarah
-tidak rumit
-menyenangkan
-produktif
-menyelesaikan
-mempermudah
-sempurna
-responsif
-praktis
-fleksibel
-puas hati
-tidak ada masalah
-berguna
-tidak merepotkan
-sangat membantu
-membantu sekali
-terpenuhi
-penuh perhatian
-sangat memuaskan
-bisa dipahami
-fitur menarik
-banyak opsi
-terjangkau
-luar biasa
-bisa dipercaya
-terpenuhi dengan baik
-cukup membantu
-berguna sekali
-selalu membantu
-bermanfaat sekali
-.....
+baik,2
+mudah,1
+cepat,2
+terpercaya,2
+memuaskan,3
+lancar,2
+efisien,2
+nyaman,2
+terbaik,3
+bagus,2
+sukses,3
+berhasil,3
+hebat,3
+positif,2
+user-friendly,2
+praktis,2
+bermanfaat,3
+solusi,2
+terorganisir,2
+tepat waktu,2
+ramah,2
+mudah diakses,1
+bantu,2
+fungsional,2
+terjangkau,1
+responsif,2
+sederhana,1
+teratur,2
+terpercaya,2
+aman,2
+canggih,2
+praktis,2
+bisa diandalkan,3
+tanpa masalah,3
+tanggapan cepat,3
+solusi cepat,3
+terpercaya,2
+efektif,3
+terbaik,3
+memenuhi kebutuhan,3
+puas,3
+menguntungkan,3
+ramah pengguna,2
+berkualitas,3
+tepat sasaran,3
+berhasil besar,3
+fitur lengkap,3
+segera,2
+mendukung,2
+terpercaya,2
+tepat guna,3
+kemudahan,3
+lanjutkan,1
+reliable,3
+terjamin,2
+dioptimalkan,3
+optimal,3
+tanggap,2
+mudah digunakan,2
+terhemat,2
+solutif,3
+inovatif,3
+mudah dipahami,2
+menguntungkan,3
+keren,2
+terarah,2
+tidak rumit,2
+menyenangkan,3
+produktif,2
+menyelesaikan,3
+mempermudah,3
+sempurna,3
+responsif,2
+praktis,2
+fleksibel,2
+puas hati,3
+tidak ada masalah,3
+berguna,2
+tidak merepotkan,3
+sangat membantu,3
+membantu sekali,3
+terpenuhi,3
+penuh perhatian,3
+sangat memuaskan,3
+bisa dipahami,2
+fitur menarik,2
+banyak opsi,2
+terjangkau,1
+luar biasa,3
+bisa dipercaya,3
+terpenuhi dengan baik,3
+cukup membantu,2
+berguna sekali,3
+selalu membantu,3
+bermanfaat sekali,3
