@@ -84,3 +84,4 @@ keterbatasan fitur
 tidak diinginkan
 tidak berguna
 menyusahkan
+.......
