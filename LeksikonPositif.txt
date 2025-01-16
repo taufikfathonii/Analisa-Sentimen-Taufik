@@ -1,95 +1,125 @@
-baik,2
-mudah,1
-cepat,2
-terpercaya,2
-memuaskan,3
-lancar,2
-efisien,2
-nyaman,2
-terbaik,3
-bagus,2
-sukses,3
-berhasil,3
-hebat,3
-positif,2
-user-friendly,2
-praktis,2
-bermanfaat,3
-solusi,2
-terorganisir,2
-tepat waktu,2
-ramah,2
-mudah diakses,1
-bantu,2
-fungsional,2
-terjangkau,1
-responsif,2
-sederhana,1
-teratur,2
-terpercaya,2
-aman,2
-canggih,2
-praktis,2
-bisa diandalkan,3
-tanpa masalah,3
-tanggapan cepat,3
-solusi cepat,3
-terpercaya,2
-efektif,3
-terbaik,3
-memenuhi kebutuhan,3
-puas,3
-menguntungkan,3
-ramah pengguna,2
-berkualitas,3
-tepat sasaran,3
-berhasil besar,3
-fitur lengkap,3
-segera,2
-mendukung,2
-terpercaya,2
-tepat guna,3
-kemudahan,3
-lanjutkan,1
-reliable,3
-terjamin,2
-dioptimalkan,3
-optimal,3
-tanggap,2
-mudah digunakan,2
-terhemat,2
-solutif,3
-inovatif,3
-mudah dipahami,2
-menguntungkan,3
-keren,2
-terarah,2
-tidak rumit,2
-menyenangkan,3
-produktif,2
-menyelesaikan,3
-mempermudah,3
-sempurna,3
-responsif,2
-praktis,2
-fleksibel,2
-puas hati,3
-tidak ada masalah,3
-berguna,2
-tidak merepotkan,3
-sangat membantu,3
-membantu sekali,3
-terpenuhi,3
-penuh perhatian,3
-sangat memuaskan,3
-bisa dipahami,2
-fitur menarik,2
-banyak opsi,2
-terjangkau,1
-luar biasa,3
-bisa dipercaya,3
-terpenuhi dengan baik,3
-cukup membantu,2
-berguna sekali,3
-selalu membantu,3
-bermanfaat sekali,3
+cepat,+3
+mudah digunakan,+3
+praktis,+3
+efisien,+3
+ramah pengguna,+3
+terpercaya,+3
+aman,+3
+user-friendly,+3
+informasi akurat,+3
+fitur lengkap,+3
+nyaman,+3
+tidak ribet,+3
+banyak pilihan,+3
+tampilan menarik,+3
+pembayaran mudah,+3
+terintegrasi dengan baik,+3
+mempermudah perjalanan,+3
+terpercaya,+3
+fungsional,+3
+mudah diakses,+3
+menyediakan opsi pembayaran lengkap,+3
+akses cepat,+3
+fitur update otomatis,+3
+notifikasi tepat waktu,+3
+informasi perjalanan lengkap,+3
+fitur pengingat,+3
+memenuhi kebutuhan pengguna,+3
+terorganisir,+3
+mendukung banyak perangkat,+3
+cepat loading,+3
+terjamin keamanannya,+3
+pengalaman pengguna memuaskan,+3
+bisa diakses kapan saja,+3
+tidak error,+3
+fitur pemesanan mudah,+3
+tiket digital mudah diakses,+3
+fitur refund jelas,+3
+support customer responsif,+3
+banyak pilihan jadwal,+3
+mempermudah pencarian tiket,+3
+akses offline,+3
+notifikasi pembatalan tepat waktu,+3
+pembatalan mudah,+3
+akses langsung ke jadwal kereta,+3
+dapat memesan tiket dengan cepat,+3
+informasi real-time,+3
+memudahkan check-in,+3
+bisa pilih kursi sesuai keinginan,+3
+pembayaran cepat dan aman,+3
+fitur pencarian rute mudah,+3
+informasi fasilitas kereta lengkap,+3
+proses pemesanan transparan,+3
+fitur tukar tiket tersedia,+3
+mendukung berbagai metode pembayaran,+3
+pembayaran lewat dompet digital tersedia,+3
+proses pemesanan cepat,+3
+memungkinkan pemesanan tiket grup,+3
+akses mudah ke riwayat transaksi,+3
+fitur notifikasi perubahan jadwal,+3
+kompatibel dengan perangkat lain,+3
+memiliki fitur pembatalan tiket,+3
+bisa mengubah jadwal,+3
+pembatalan refund cepat diproses,+3
+berbagai opsi pembayaran internasional,+3
+transaksi aman,+3
+pembayaran melalui transfer mudah,+3
+fasilitas tiket VIP tersedia,+3
+fitur untuk memilih jenis kereta,+3
+proses login cepat,+3
+fitur pengembalian dana cepat,+3
+memperbarui jadwal secara otomatis,+3
+fitur pencarian cepat,+3
+fitur informasi keberangkatan lengkap,+3
+tampilan aplikasi responsif,+3
+fitur chat customer service,+3
+fitur pembayaran cicilan tersedia,+3
+fitur pembayaran sesuai preferensi,+3
+menyediakan promo menarik,+3
+memudahkan akses ke tiket kereta,+3
+bisa beli tiket dengan cepat,+3
+memberikan banyak opsi kereta,+3
+bisa memesan tiket sesuai waktu keberangkatan,+3
+fitur pencarian jadwal sesuai preferensi,+3
+aplikasi ringan dan cepat,+3
+notifikasi keberangkatan tepat waktu,+3
+fitur pengingat otomatis,+3
+mendukung pembayaran dengan QR Code,+3
+informasi tiket lengkap,+3
+fitur pemesanan otomatis,+3
+berfungsi dengan baik di berbagai perangkat,+3
+akses mudah di semua perangkat,+3
+pengalaman pengguna yang menyenangkan,+3
+pembatalan tiket dengan mudah,+3
+memudahkan perencanaan perjalanan,+3
+menawarkan banyak fitur,+3
+proses pemesanan jelas dan mudah,+3
+fitur pencarian tiket untuk keluarga,+3
+akses ke fasilitas tambahan kereta,+3
+penyimpanan tiket digital mudah,+3
+informasi jadwal akurat dan real-time,+3
+fitur pembelian tiket cepat,+3
+fitur pemesanan kursi sesuai preferensi,+3
+pembayaran via kartu kredit mudah,+3
+pembayaran sukses terverifikasi,+3
+fitur pengingat jadwal perjalanan,+3
+mendukung pembayaran berbagai metode,+3
+mudah memilih tiket berdasar harga,+3
+informasi detail tentang perjalanan,+3
+memperbarui informasi tiket secara otomatis,+3
+fitur refund otomatis,+3
+informasi perjalanan lengkap dan jelas,+3
+fitur untuk melihat kapasitas kereta,+3
+pengalaman pengguna yang efisien,+3
+memperbarui status tiket secara real-time,+3
+fitur pencarian tiket berdasarkan rute,+3
+akses mudah ke detail kereta,+3
+fitur memilih jadwal sesuai keinginan,+3
+penyimpanan tiket dalam aplikasi mudah,+3
+fitur untuk membandingkan harga tiket,+3
+fitur untuk memilih kereta cepat,+3
+akses mudah ke jadwal kedatangan,+3
+proses pembayaran lancar,+3
+fitur untuk memilih tiket sesuai keinginan,+3
+fitur melihat informasi kereta secara lengkap,+3
+informasi real-time yang berguna,+3
