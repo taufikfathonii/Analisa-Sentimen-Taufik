@@ -1,12 +1,12 @@
-buruk,2
-lambat,1
-gagal,3
+aplikasi sangat lambat,2
+keluar sendiri,1
+sistem ada gangguan,3
 error,2
-masalah,2
+tidak ada opsi pembayaran,2
 kecewa,3
-miskin,1
+server error terus,1
 kesulitan,2
-batal,2
+aplikasi ini tidak lengkap,2
 terlambat,1
 terganggu,1
 gangguan,2
