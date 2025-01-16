@@ -1,87 +1,85 @@
-buruk
-lambat
-gagal
-error
-masalah
-kecewa
-miskin
-kesulitan
-batal
-terlambat
-terganggu
-gangguan
-kerusakan
-tidak responsif
-tidak berguna
-membingungkan
-komplain
-keluhan
-terblokir
-bug
-terluka
-hancur
-susah
-tidak stabil
-kacau
-buntu
-tidak aman
-mengganggu
-salah
-terputus
-kekurangan
-terbengkalai
-hang
-terhenti
-tidak bisa diakses
-terhalang
-tidak efisien
-tunggu lama
-kesalahan
-terlalu rumit
-tidak memadai
-sumber daya terbatas
-terlupakan
-rugi
-gagal total
-harapan hancur
-tidak ada solusi
-kurang lengkap
-bermasalah
-kehilangan
-lambat respon
-keterlambatan
-susah login
-tidak tepat waktu
-berantakan
-sulit diakses
-tidak cocok
-terhambat
-kurang cepat
-susah dioperasikan
-membosankan
-berulang
-terhambat
-tidak tepat sasaran
-frustrasi
-penurunan kualitas
-bermasalah teknis
-komplikasi
-rumit
-membingungkan
-kehilangan data
-terpotong
-kerugian
-tidak efektif
-tidak bisa diperbaiki
-kesalahan besar
-terganggu
-terlambat respon
-keterbatasan
-terhenti mendadak
-tidak memadai
-tidak konsisten
-keterbatasan fitur
-tidak diinginkan
-tidak berguna
-menyusahkan
-.......
+buruk,2
+lambat,1
+gagal,3
+error,2
+masalah,2
+kecewa,3
+miskin,1
+kesulitan,2
+batal,2
+terlambat,1
+terganggu,1
+gangguan,2
+kerusakan,3
+tidak responsif,3
+tidak berguna,3
+membingungkan,2
+komplain,1
+keluhan,2
+terblokir,2
+bug,2
+terluka,2
+hancur,3
+susah,1
+tidak stabil,2
+kacau,2
+buntu,2
+tidak aman,3
+mengganggu,2
+salah,1
+terputus,2
+kekurangan,2
+terbengkalai,3
+hang,2
+terhenti,2
+tidak bisa diakses,3
+terhalang,2
+tidak efisien,2
+tunggu lama,1
+kesalahan,2
+terlalu rumit,2
+tidak memadai,2
+sumber daya terbatas,2
+terlupakan,1
+rugi,3
+gagal total,3
+harapan hancur,3
+tidak ada solusi,3
+kurang lengkap,2
+bermasalah,2
+kehilangan,2
+lambat respon,1
+keterlambatan,1
+susah login,1
+tidak tepat waktu,1
+berantakan,2
+sulit diakses,2
+tidak cocok,2
+terhambat,1
+kurang cepat,1
+susah dioperasikan,2
+membosankan,1
+berulang,1
+terhambat,1
+tidak tepat sasaran,2
+frustrasi,3
+penurunan kualitas,2
+bermasalah teknis,2
+komplikasi,2
+rumit,1
+kehilangan data,3
+terpotong,2
+kerugian,3
+tidak efektif,2
+tidak bisa diperbaiki,3
+kesalahan besar,3
+terganggu,2
+terlambat respon,1
+keterbatasan,2
+terhenti mendadak,2
+tidak memadai,2
+tidak konsisten,2
+keterbatasan fitur,2
+tidak diinginkan,2
+tidak berguna,3
+menyusahkan,3
